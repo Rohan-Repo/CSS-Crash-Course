@@ -5,3 +5,9 @@ A Crash Course on Cascading Style Sheets (CSS) Basics based on the below mention
 <b> [CSS Video broCode](https://www.youtube.com/watch?v=wRNinF7YQqQ) </b>
 
 <b> [CSS Video Sheriyans](https://www.youtube.com/watch?v=K1naz9wBwKU) </b>
+
+Images taken from <b> [Unsplash](https://unsplash.com/) </b> :
+
+<b> [Apple Logo](https://unsplash.com/photos/apple-logo-x60YFtdOsGU) </b>
+<b> [VW Logo](https://unsplash.com/photos/silver-mercedes-benz-emblem-on-blue-surface-5MlBMYDsGBY) </b>
+<b> [CN Tower](https://unsplash.com/photos/high-rise-buildings-during-night-time-M62J7DBZ-hY) </b>
